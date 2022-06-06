@@ -1,0 +1,30 @@
+<html>
+<head>  
+        <title>google</title>
+</head>
+<body> <form>
+<b>
+<font size=5>
+<font color=blue>G</font>
+<font color=red>o</font>
+<font color=yellow>o</font>
+<font color=blue>g</font>
+<font color=green>l</font>
+<font color=red>e</font>
+</font>
+<font size=1><sup>TM</sup></font>
+</b><br>
+Applications</br>
+<input type=Checkbox>
+<A href=Gmail.html>Gmail</A><br>
+<input type=checkbox>
+<A href=Calendar.html>Calendar</A><br>
+<input type=checkbox>
+<A href=Talk.html>Talk</A><br>
+<input type=checkbox>
+<A href=Sites.html>Sites</A><br>
+<input type=checkbox>
+<A href=New.html>New Features</A><br>
+</form>
+</body>
+</html>
